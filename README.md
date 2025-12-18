@@ -14,3 +14,9 @@ Developed an end-to-end data pipeline to collect, process, and analyze job posti
 
 **Impact:**
 This project provides actionable insights for job seekers and recruiters, demonstrating the ability to handle large datasets, automate workflows, and transform raw data into meaningful business intelligence.
+
+<p align="center">
+  <img src="images/ERD.jpg" width="32%" />
+  <img src="images/Dashboard.jpg" width="32%" />
+  <img src="images/WordCloud.jpg" width="32%" />
+</p>
